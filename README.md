@@ -1,33 +1,52 @@
 # 📈 Borsa Radar
 
-Yapay zekâ destekli Borsa İstanbul teknik analiz ve hisse tarama platformu.
+## Yapay Zekâ Destekli Borsa İstanbul Tarama Platformu
 
-Borsa İstanbul hisseleri için Streamlit tabanlı teknik analiz ve tarama uygulaması.
+Borsa Radar, Borsa İstanbul hisselerini teknik analiz yöntemleri ve yapay zekâ destekli puanlama sistemi ile tarayan profesyonel bir analiz platformudur.
 
 ## Özellikler
 
-- BIST hisselerini tarar
-- RSI hesaplar
-- EMA 20 / EMA 50 / EMA 200 kontrol eder
-- OBV analizi yapar
-- ATR ile hedef ve stop seviyesi üretir
-- Hacim artışını kontrol eder
-- Kırılım sinyali arar
-- Skor sistemiyle hisseleri sıralar
-- Tavan adayı olabilecek hisseleri listeler
+✅ Tüm BIST hisselerini tarama
 
-## Kullanılan Teknolojiler
+✅ AI Skor (0-100)
 
-- Python
+✅ RSI Analizi
+
+✅ EMA20 / EMA50 / EMA200
+
+✅ ATR
+
+✅ OBV
+
+✅ Hacim Patlaması
+
+✅ Breakout Analizi
+
+✅ Tavan Adayı Hesaplama
+
+✅ Hedef Fiyat
+
+✅ Stop Loss
+
+✅ Smart Money (yakında)
+
+✅ Order Block (yakında)
+
+✅ Fair Value Gap (yakında)
+
+✅ Likidite Analizi (yakında)
+
+## Teknolojiler
+
 - Streamlit
+- Python
 - Pandas
 - NumPy
 - yfinance
 - Plotly
-- TA
 
-## Çalıştırma
+## Uyarı
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+Bu uygulama yatırım tavsiyesi değildir.
+
+Sadece eğitim ve teknik analiz amaçlı geliştirilmektedir.
