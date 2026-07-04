@@ -1,4 +1,6 @@
-# 💰 Money Trader BIST
+# 📈 Borsa Radar
+
+Yapay zekâ destekli Borsa İstanbul teknik analiz ve hisse tarama platformu.
 
 Borsa İstanbul hisseleri için Streamlit tabanlı teknik analiz ve tarama uygulaması.
 
