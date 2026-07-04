@@ -7,13 +7,13 @@ import time
 from datetime import datetime
 
 st.set_page_config(
-    page_title="Money Trader BIST",
-    page_icon="💰",
+    page_title="Borsa Radar",
+    page_icon="📈",
     layout="wide"
 )
 
-st.title("💰 MONEY TRADER BIST")
-st.caption("BIST hisseleri için teknik tarama sistemi")
+st.title("📈 BORSA RADAR")
+st.caption("Yapay Zekâ Destekli BIST Tarama ve Teknik Analiz Platformu")
 
 BIST_FALLBACK = [
     "AKBNK", "ASELS", "ASTOR", "BIMAS", "EREGL", "GARAN", "HEKTS",
